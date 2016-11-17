@@ -9,6 +9,7 @@ The code is only for academical purpose, and please cite the paper:
 or cite by bibTex
 
 @article{sun2015supervised,
+
   title={Supervised spectral--spatial hyperspectral image classification with weighted Markov random fields},
   author={Sun, Le and Wu, Zebin and Liu, Jianjun and Xiao, Liang and Wei, Zhihui},
   journal={IEEE Transactions on Geoscience and Remote Sensing},

@@ -1,0 +1,1 @@
+# Supervised-Spectral-spatial-Hyperspectral-Image-Classification-with-Weighted-Markov-Random-Fields
